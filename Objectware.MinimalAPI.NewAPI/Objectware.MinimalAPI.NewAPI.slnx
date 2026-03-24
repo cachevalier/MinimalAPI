@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Objectware.MinimalAPI.NewAPI.Tests/Objectware.MinimalAPI.NewAPI.Tests.csproj" />
+  <Project Path="Objectware.MinimalAPI.NewAPI/Objectware.MinimalAPI.NewAPI.csproj" />
+</Solution>
